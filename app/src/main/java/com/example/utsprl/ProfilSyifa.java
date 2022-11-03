@@ -17,7 +17,5 @@ public class ProfilSyifa extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_profil_syifa);
         ListView lv = (ListView) findViewById(R.id.lv);
-
-
     }
 }
